@@ -105,8 +105,4 @@ I'm always open to interesting projects and collaboration opportunities. Feel fr
 
 ---
 
-<div align="center">
 
-**Made with ❤️ in Addis Ababa**
-
-</div>
