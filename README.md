@@ -34,25 +34,25 @@ I'm a Computer Science graduate from Addis Ababa University with a passion for b
 
 ## 🚀 Featured Projects
 
-### **WeCAR** - Car Rental Platform
-A fully functional car rental application with user browsing, booking management, and admin controls for fleet operations.  
-🔗 [Repository](https://github.com/omerahmedomi/WeCAR) | Tech: React, TailwindCSS, JavaScript
-
 ### **Liwatch Bartering Platform** - E-Commerce Frontend
 Modern e-commerce frontend for a bartering platform with seamless user experience.  
 🔗 [Repository](https://github.com/omerahmedomi/Liwatch-Bartering-Platform-Frontend) | Tech: TypeScript, React
+
+### **WeCAR** - Car Rental Platform
+A fully functional car rental application with user browsing, booking management, and admin controls for fleet operations.  
+🔗 [Repository](https://github.com/omerahmedomi/WeCAR) | Tech: React, TailwindCSS, JavaScript
 
 ### **Proconnect** - Professional Networking Platform
 A networking web application that connects users, facilitates idea sharing, and matches professionals for opportunities.  
 🔗 [Repository](https://github.com/omerahmedomi/Proconnect) | Tech: TypeScript, React
 
-### **Recipe App** - Ethiopian Cuisine Explorer
-Discover and explore authentic Ethiopian native dishes with detailed recipes and information.  
-🔗 [Repository](https://github.com/omerahmedomi/Recipe-App) | 🌐 [Live Demo](https://etfoodz.vercel.app/) | Tech: React, Appwrite, TailwindCSS, Vite
-
 ### **Expense & Income Tracker** - Financial Analytics
 A comprehensive full-stack application for transaction management with real-time data analysis and interactive chart visualizations.  
 🔗 [Repository](https://github.com/omerahmedomi/Expense-and-Income-Tracker) | Tech: PERN Stack (PostgreSQL, Express, React, Node.js)
+
+### **Recipe App** - Ethiopian Cuisine Explorer
+Discover and explore authentic Ethiopian native dishes with detailed recipes and information.  
+🔗 [Repository](https://github.com/omerahmedomi/Recipe-App) | 🌐 [Live Demo](https://etfoodz.vercel.app/) | Tech: React, Appwrite, TailwindCSS, Vite
 
 ### **Todo Manager** - Task Management System
 PERN stack application featuring authentication, authorization, and robust task management capabilities.  
@@ -70,7 +70,7 @@ A real-world subscription tracking API that monitors service renewals and sends 
 🎨 **UI/UX Implementation** - Translating designs into responsive, interactive interfaces  
 🔌 **API Development** - Building scalable backend services and microservices  
 💾 **Database Design** - Architecting efficient database schemas  
-🔐 **Authentication** - Implementing secure auth systems and authorization flows  
+ 
 
 ---
 
@@ -94,8 +94,4 @@ I'm always open to interesting projects and collaboration opportunities. Feel fr
 
 ---
 
-<div align="center">
 
-**Made with ❤️ in Addis Ababa**
-
-</div>
