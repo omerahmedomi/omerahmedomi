@@ -16,6 +16,7 @@ I'm a Computer Science graduate from Addis Ababa University with a passion for b
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
@@ -70,7 +71,7 @@ A real-world subscription tracking API that monitors service renewals and sends 
 🎨 **UI/UX Implementation** - Translating designs into responsive, interactive interfaces  
 🔌 **API Development** - Building scalable backend services and microservices  
 💾 **Database Design** - Architecting efficient database schemas  
- 
+🔐 **Authentication** - Implementing secure auth systems and authorization flows  
 
 ---
 
@@ -94,5 +95,18 @@ I'm always open to interesting projects and collaboration opportunities. Feel fr
 
 ---
 
+## 📈 GitHub Activity
 
-[![Your Activity Graph](https://vercel.app)](https://github.com/omerahmedomi/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omerahmedomi/omerahmedomi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omerahmedomi/omerahmedomi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omerahmedomi/omerahmedomi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+**Made with ❤️ in Addis Ababa**
+
+</div>
